@@ -1,0 +1,12 @@
+{
+    "id" : "0x881D40237659C251811CEC9c364ef91dC08D300C",
+    "name" : "Metamask Router",
+    "website" : "https://metamask.io/",
+    "socials" : [
+        {
+            "id" : "twitter",
+            "url" : "https://twitter.com/metamask"
+        }
+    ],
+    "type" : "swap"
+}

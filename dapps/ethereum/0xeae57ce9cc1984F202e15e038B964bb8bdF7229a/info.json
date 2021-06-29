@@ -1,0 +1,12 @@
+{
+    "id" : "0xeae57ce9cc1984F202e15e038B964bb8bdF7229a",
+    "name" : "Solana Bridge",
+    "website" : "https://solana.com/",
+    "socials" : [
+        {
+            "id" : "twitter",
+            "url" : "https://twitter.com/Uniswap"
+        }
+    ],
+    "type" : "L2 Solution"
+}

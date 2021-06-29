@@ -1,0 +1,12 @@
+{
+    "id" : "0x40ec5B33f54e0E8A33A975908C5BA1c14e5BbbDf",
+    "name" : "Polygon Bridge",
+    "website" : "https://polygon.technology/",
+    "socials" : [
+        {
+            "id" : "twitter",
+            "url" : "https://twitter.com/0xPolygon"
+        }
+    ],
+    "type" : "L2 Solution"
+}

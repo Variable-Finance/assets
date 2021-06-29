@@ -1,0 +1,12 @@
+{
+    "id" : "0x97deC872013f6B5fB443861090ad931542878126",
+    "name" : "Uniswap V1",
+    "website" : "https://uniswap.org/",
+    "socials" : [
+        {
+            "id" : "twitter",
+            "url" : "https://twitter.com/Uniswap"
+        }
+    ],
+    "type" : "dapp"
+}
